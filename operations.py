@@ -1,0 +1,15 @@
+print("5 + 3 =",5+3)
+print("5 - 3 =",5-3)
+print("5 - 3 =",5-3.0)
+print("5 * 3 =",5*3)
+print("5 / 3 =",5/3)
+print("5 // 3 =",5//3)
+print("5 % 3 =",5%3)
+print("5 ^ 2=",5**2)
+
+#logical operations
+print(3==3)
+print("diego"=="diego")
+print(4>=50)
+print(26>3)
+print(3<3)

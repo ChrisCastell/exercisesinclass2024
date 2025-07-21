@@ -1,0 +1,5 @@
+print("Hello, this is a  body mass calculator")
+height=float(input("Type your height in meters here:  "))
+weight=float(input("Type your weight in kilograms here:  "))
+result=weight/(height*height)
+print("Your body mass index is:  ",result)
